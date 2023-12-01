@@ -4,7 +4,7 @@ const path = require('path');
 
 
 scrape({
- urls: ['https://cristianofilho.github.io'],
+ urls: ['https://tess.pareto.io'],
 
 
 
